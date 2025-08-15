@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset = "UTF-8">
+    <meta name = "viewport" content = "width = device-width" initial-scale = 1>
+    <title>
+        {% block title %}
+            Django App
+        {% endblock %}
+    </title>
+    <link rel = "stylesheet" href = "{% static 'css/style.css' %}">
+</head>
+<body>
+    <nav>
+        {% if user.is_authenticated %}
+            <a href = "/">
+                <span role = "img" aria-label = "Home" title = "Home">
+                    Home
+                </span>
+            </a> |
+            <a href="{% url 'landing' %}" class="button">Logout</a>
+        {% endif %}
+    </nav>
+    <main>
+        {% block content %}
+        {% endblock %}
+    </main>
+</body>
+</html>

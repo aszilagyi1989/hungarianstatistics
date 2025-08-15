@@ -1,0 +1,13 @@
+{% extends 'layout.html' %}
+
+{% block title %}
+    Google OAuth Example - Home
+{% endblock %}
+
+{% block content %}
+    <h1>Welcome, {{ user.username }}!</h1>
+        {% if user.is_authenticated %}
+            <p>You are logged in. Enjoy the restricted content!</p>
+            <a href="{% url 'landing' %}" class="button">Logout</a>
+        {% endif %}
+{% endblock %}
