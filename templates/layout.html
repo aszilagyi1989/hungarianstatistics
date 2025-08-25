@@ -22,6 +22,8 @@
             <a href="{% provider_login_url 'google' %}" class="button">
                 <img alt="light themed pill shaped Sign in with Google button" src="/static/images/web_light_rd_ctn@1x.png">
             </a>
+            <a href="{% url 'social:begin' 'facebook' %}">Login With Facebook</a>
+            </div>
         {% endif %}
     </nav>
     <main>
