@@ -20,12 +20,11 @@
             <a href="{% url 'userlogin' %}" class="button">Login</a>
             <a href="{% url 'usersignup' %}" class="button">Register</a>
             <a href="{% provider_login_url 'google' %}" class="button">
-                <img alt="light themed pill shaped Sign in with Google button" src="/static/images/google_login_button.png">
+                <img alt="google" src="/assets/images/google_login_button.png"></img>
             </a>
-            <a href="{% 'social:begin' 'facebook' %}" class="button">
-                <img alt="light themed pill shaped Sign in with Google button" src="/static/images/facebook_login_button.png">
+            <a href="{% url 'social:begin' 'facebook' %}" class="button">
+                <img alt="facebook" src="/assets/images/facebook_login_button.png"></img>
             </a>
-            </div>
         {% endif %}
     </nav>
     <main>

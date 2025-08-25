@@ -76,7 +76,7 @@ MIDDLEWARE = [
 
 AUTHENTICATION_BACKENDS = [
     'django.contrib.auth.backends.ModelBackend',
-    'allauth.account.auth_backends.AuthenticationBackend'
+    'allauth.account.auth_backends.AuthenticationBackend',
     'social_core.backends.facebook.FacebookOAuth2',
 ]
 
@@ -172,7 +172,7 @@ if not DEBUG:
 if DEBUG:
     STATIC_ROOT = BASE_DIR / 'static'
 
-STATICFILES_DIRS = [BASE_DIR / 'static']
+# STATICFILES_DIRS = [BASE_DIR / 'static']
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
@@ -183,3 +183,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 SOCIAL_AUTH_FACEBOOK_SCOPE = [
     'email',
 ]
+
