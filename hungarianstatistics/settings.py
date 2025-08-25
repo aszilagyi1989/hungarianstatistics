@@ -47,8 +47,6 @@ INSTALLED_APPS = [
     'allauth.account',
     'allauth.socialaccount',
     'allauth.socialaccount.providers.google',
-    'django_recaptcha',
-    'captcha',
 ]
 
 SITE_ID = 1 
