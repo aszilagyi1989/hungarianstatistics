@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 {% load static %}
+{% load socialaccount %}
 <html lang="en">
 <head>
     <meta charset = "UTF-8">
@@ -14,12 +15,13 @@
 <body>
     <nav>
         {% if user.is_authenticated %}
-            <a href = "/">
-                <span role = "img" aria-label = "Home" title = "Home">
-                    Home
-                </span>
-            </a> |
             <a href="{% url 'account_logout' %}" class="button">Logout</a>
+        {% else %}
+            <a href="{% url 'userlogin' %}" class="button">Login</a>
+            <a href="{% url 'usersignup' %}" class="button">Sign Up</a>
+            <a href="{% provider_login_url 'google' %}" class="button">
+                <img alt="light themed pill shaped Sign in with Google button" src="/static/images/web_light_rd_ctn@1x.png">
+            </a>
         {% endif %}
     </nav>
     <main>
@@ -28,3 +30,4 @@
     </main>
 </body>
 </html>
+
