@@ -84,6 +84,7 @@ SOCIALACCOUNT_PROVIDERS = {
 }
 
 SOCIALACCOUNT_LOGIN_ON_GET = True
+ACCOUNT_LOGOUT_REDIRECT_URL ="/users/landing"
 
 ROOT_URLCONF = 'hungarianstatistics.urls'
 
