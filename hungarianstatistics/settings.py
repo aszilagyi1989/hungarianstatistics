@@ -77,13 +77,13 @@ MIDDLEWARE = [
     'social_django.middleware.SocialAuthExceptionMiddleware',
 ]
 
-AUTH_USER_MODEL = 'users.User'
+""" AUTH_USER_MODEL = 'users.User' """
 
 AUTHENTICATION_BACKENDS = [
     'django.contrib.auth.backends.ModelBackend',
     'allauth.account.auth_backends.AuthenticationBackend',
     'social_core.backends.facebook.FacebookOAuth2',
-    'core.backends.EmailBackend',
+    """ 'core.backends.EmailBackend', """
 ]
 
 SOCIALACCOUNT_PROVIDERS = {
