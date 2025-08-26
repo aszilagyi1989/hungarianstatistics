@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     'allauth.socialaccount.providers.google',
     'social_django',
+    'allauth.socialaccount.providers.github',
 ]
 
 SITE_ID = 1 
@@ -60,6 +61,8 @@ RECAPTCHA_PRIVATE_KEY = os.environ['RECAPTCHA_PRIVATE_KEY']
 
 SOCIAL_AUTH_FACEBOOK_KEY = os.environ['SOCIAL_AUTH_FACEBOOK_KEY']
 SOCIAL_AUTH_FACEBOOK_SECRET = os.environ['SOCIAL_AUTH_FACEBOOK_SECRET']
+
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -74,10 +77,13 @@ MIDDLEWARE = [
     'social_django.middleware.SocialAuthExceptionMiddleware',
 ]
 
+AUTH_USER_MODEL = 'users.User'
+
 AUTHENTICATION_BACKENDS = [
     'django.contrib.auth.backends.ModelBackend',
     'allauth.account.auth_backends.AuthenticationBackend',
     'social_core.backends.facebook.FacebookOAuth2',
+    'core.backends.EmailBackend',
 ]
 
 SOCIALACCOUNT_PROVIDERS = {
@@ -89,7 +95,14 @@ SOCIALACCOUNT_PROVIDERS = {
         },
         'SCOPE': ['profile', 'email',],
         'AUTH_PARAMS': {'access_type': 'online',}
-    }
+    },
+    "github": {
+        "VERIFIED_EMAIL": True,
+        "APP": {
+            "client_id": os.environ["GITHUB_CLIENT_ID"],
+            "secret": os.environ["GITHUB_CLIENT_SECRET"],
+        },
+    },
 }
 
 SOCIALACCOUNT_LOGIN_ON_GET = True
@@ -172,7 +185,7 @@ if not DEBUG:
 if DEBUG:
     STATIC_ROOT = BASE_DIR / 'static'
 
-# STATICFILES_DIRS = [BASE_DIR / 'static']
+STATICFILES_DIRS = [BASE_DIR / 'static']
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
