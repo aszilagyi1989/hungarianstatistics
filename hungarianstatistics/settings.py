@@ -49,11 +49,12 @@ INSTALLED_APPS = [
     'allauth.socialaccount.providers.google',
     'social_django',
     'allauth.socialaccount.providers.github',
+    'geoApp',
 ]
 
 SITE_ID = 1 
 
-LOGIN_REDIRECT_URL = '/home'
+LOGIN_REDIRECT_URL = 'geopandas' #  home
 LOGOUT_REDIRECT_URL = '/'
 
 RECAPTCHA_PUBLIC_KEY = os.environ['RECAPTCHA_PUBLIC_KEY']
@@ -111,7 +112,7 @@ ROOT_URLCONF = 'hungarianstatistics.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['templates'],
+        'DIRS': ['geoApp', 'templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -173,15 +174,19 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.2/howto/static-files/
 
+MEDIA_URL = "media/"
+
 STATIC_URL = 'static/'
 
 if not DEBUG:
     STATIC_ROOT = BASE_DIR / 'assets'
     STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
+    MEDIA_ROOT = BASE_DIR / 'media'
     
 
 if DEBUG:
     STATIC_ROOT = BASE_DIR / 'static'
+    MEDIA_ROOT = BASE_DIR / 'media'
 
 STATICFILES_DIRS = [BASE_DIR / 'static']
 

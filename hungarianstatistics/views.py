@@ -4,4 +4,4 @@ from django.shortcuts import render, redirect
 from django.contrib import messages
 
 def homepage(request):
-    return render(request, 'home.html')
+    return render(request, 'geoApp/home.html')

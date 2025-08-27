@@ -27,3 +27,7 @@ def landing(request):
 @login_required
 def home(request):
     return render(request, 'home.html', {'user': request.user})
+
+@login_required
+def geopandas(request):
+    return redirect('geoApp:home', {'user': request.user})

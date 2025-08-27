@@ -125,3 +125,12 @@ a:hover {
 .logout-button:hover {
   opacity: .85;
 }
+
+.navbar-brand .twitter-handle {
+  color: #1DA1F2; /* Twitter blue color */
+  margin-left: 5px;
+}
+
+.lead {
+  color: #FF3366; /* Custom color for lead text */
+}

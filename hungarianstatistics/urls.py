@@ -27,5 +27,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     # path('', views.homepage),
     path('', include('users.urls')),
+    path('', include('geoApp.urls')),
     path('users/', include('allauth.urls')),
 ]

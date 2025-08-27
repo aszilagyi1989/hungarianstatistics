@@ -1,0 +1,318 @@
+﻿MUTATO_KOD;MUTATO_FOCSOP_MEGNEV;MUTATO_MEGNEV
+TYWS002;Foglalkoztatás, munkanélküliség;A 15–64 éves népesség munkanélküliségi rátája
+TYWS001;Foglalkoztatás, munkanélküliség;A 15–64 éves népesség foglalkoztatási rátája
+TYWG006;Lakásállomány, -építés, -megszűnés, -árak;Átlagos lakásalapterület
+TYWG008;Lakásállomány, -építés, -megszűnés, -árak;1 szobás lakások aránya
+TYWG009;Lakásállomány, -építés, -megszűnés, -árak;2 szobás lakások aránya
+TYWG010;Lakásállomány, -építés, -megszűnés, -árak;3– és több szobás lakások aránya
+TYWF003;Kereskedelem, vendéglátás, turizmus;A kiskereskedelmi üzletek egy üzletre jutó forgalma
+TYWN001;Keresetek;Teljes munkaidőben alkalmazásban állók bruttó átlagkeresete munkáltató székhelye szerint
+TYWN002;Keresetek;Teljes munkaidőben alkalmazásban álló fizikai foglalkozásúak bruttó átlagkeresete munkáltató székhelye szerint
+TYWN003;Keresetek;Teljes munkaidőben alkalmazásban álló szellemi foglalkozásúak bruttó átlagkereset munkáltató székhelye szerint
+TYWN004;Keresetek;Teljes munkaidőben alkalmazásban állók nettó átlagkeresete  munkáltató székhelye szerint
+TYWN005;Keresetek;Teljes munkaidőben alkalmazásban állók bruttó átlagkeresete munkavállalók lakcíme szerint
+TYWJ006;Egészségügy, szociális ellátás;Egy gyógyszertárra jutó lakosok száma
+TYWT001;Üres álláshelyek;Üres álláshelyek száma
+TYWT002;Üres álláshelyek;Üres álláshelyek aránya az összes álláshelyhez viszonyítva
+TYWJ104;Egészségügy, szociális ellátás;Az ezer azonos korú lakosra jutó védelembe vett kiskorúak száma
+TYWC002;Vándorlás;A Magyarországon tartózkodó külföldi állampolgárok ezer lakosra jutó aránya
+TYWC003;Vándorlás;A Magyarországra bevándorló külföldi állampolgárok ezer lakosra jutó aránya
+TYWC004;Vándorlás;A Magyarországról kivándorló külföldi állampolgárok ezer lakosra jutó aránya
+TYWC005;Vándorlás;A kivándorló magyar állampolgárok ezer lakosra jutó aránya
+TYWC006;Vándorlás;A Magyarországon született visszavándorló magyar állampolgárok ezer lakosra jutó aránya
+TYWC007;Vándorlás;Állandó belföldi vándorlási különbözet ezer lakosra
+TYWC008;Vándorlás;Ideiglenes belföldi vándorlási különbözet ezer lakosra
+TYWC009;Vándorlás;A Magyarországon állampolgárságot kapott személyek ezer lakosra jutó aránya
+TYWC010;Vándorlás;A külföldön született magyar állampolgárok ezer lakosra jutó aránya
+TYWR001;Posta, távközlés, gépjármű-állomány;Személygépkocsi ezer lakosra
+TYWP003;Gazdasági szervezetek;Társas vállalkozások aránya a működő vállalkozásokon belül
+TYWP004;Gazdasági szervezetek;Mikrovállalkozások aránya a működő vállalkozásokon belül
+TYWP005;Gazdasági szervezetek;Kisvállalkozások aránya a működő vállalkozásokon belül
+TYWP006;Gazdasági szervezetek;Középvállalkozások aránya a működő vállalkozásokon belül
+TYWP007;Gazdasági szervezetek;Mezőgazdasági tevékenységben működő vállalkozások aránya a működő vállalkozásokon belül
+TYWP008;Gazdasági szervezetek;Ipari tevékenységben működő vállalkozások aránya a működő vállalkozásokon belül
+TYWP009;Gazdasági szervezetek;Építőipari tevékenységben működő vállalkozások aránya a működő vállalkozásokon belül
+TYWP010;Gazdasági szervezetek;Kereskedelmi tevékenységben működő vállalkozások aránya a működő vállalkozásokon belül
+TYWP011;Gazdasági szervezetek;Szakmai, tudományos tevékenységben működő vállalkozások aránya a működő vállalkozásokon belül
+TYWP012;Gazdasági szervezetek;Ingatlanügyletek tevékenységben működő vállalkozások aránya a működő vállalkozásokon belül
+TYWJ001;Egészségügy, szociális ellátás;Egy háziorvosra jutó évi betegforgalom
+TYWJ002;Egészségügy, szociális ellátás;Egy házi gyermekorvosra jutó évi betegforgalom
+TYWA202;Terület, továbbvezetett lakónépesség;Férfiak átlagos életkora, december 31-én
+TYWA203;Terület, továbbvezetett lakónépesség;Nők átlagos életkora, december 31-én
+TYWB003;Népmozgalom;Teljes termékenységi arányszám
+TYWB202;Népmozgalom;A férfiak születéskor várható élettartama 
+TYWB203;Népmozgalom;A nők születéskor várható élettartama 
+TYWG005;Lakásállomány, -építés, -megszűnés, -árak;Száz lakásra jutó szoba
+TYWJ009;Egészségügy, szociális ellátás;A kórházi ápolás átlagos tartama
+TYWJ109;Egészségügy, szociális ellátás;Házi segítségnyújtást helyben biztosító települések aránya
+TYWJ110;Egészségügy, szociális ellátás;Szociális étkeztetést helyben biztosító települések aránya
+TYWF002;Kereskedelem, vendéglátás, turizmus;A kiskereskedelmi üzletek egy főre jutó forgalma
+TYWF001;Kereskedelem, vendéglátás, turizmus;Kiskereskedelmi üzlet tízezer lakosra
+TYWF103;Kereskedelem, vendéglátás, turizmus;Tíz ezer főre jutó vendéglátó helyek száma
+TYWJ112;Egészségügy, szociális ellátás;Tízezer 65 éven felüli lakosra jutó idősotthoni férőhely
+TYWC001;Vándorlás;Összes belföldi vándorlási különbözet ezer lakosra
+TYWP001;Gazdasági szervezetek;Ezer lakosra jutó működő vállalkozások száma
+TYWP002;Gazdasági szervezetek;Egyéni Önálló vállalkozók aránya a működő vállalkozásokon belül
+TYWF104;Kereskedelem, vendéglátás, turizmus;Ezer lakosra jutó vendégek száma a kereskedelmi szálláshelyeken
+TYWF105;Kereskedelem, vendéglátás, turizmus;Ezer lakosra jutó vendégéjszakák száma a kereskedelmi szálláshelyeken
+TYWF106;Kereskedelem, vendéglátás, turizmus;Ezer lakosra jutó vendégek száma a turisztikai szálláshelyeken
+TYWF107;Kereskedelem, vendéglátás, turizmus;Ezer lakosra jutó vendégéjszakák száma a turisztikai szálláshelyeken
+TYWF108;Kereskedelem, vendéglátás, turizmus;Tízezer lakosra jutó férőhelyek száma a kereskedelmi szálláshelyeken
+TYWF109;Kereskedelem, vendéglátás, turizmus;Tízezer lakosra jutó férőhelyek száma a turisztikai szálláshelyeken
+TYWG001;Lakásállomány, -építés, -megszűnés, -árak;Lakásállomány ezer lakosra
+TYWG002;Lakásállomány, -építés, -megszűnés, -árak;Száz lakásra jutó lakos
+TYWG004;Lakásállomány, -építés, -megszűnés, -árak;Ezer lakóra jutó lakásépítési engedélyek és bejelentések
+TYWG101;Lakásállomány, -építés, -megszűnés, -árak;Épített lakás tízezer lakosra
+TYWJ004;Egészségügy, szociális ellátás;Tízezer lakosra jutó működő kórházi ágyak száma
+TYWJ010;Egészségügy, szociális ellátás;Száz lakosra jutó elbocsátott, kiírt kórházi betegek száma
+TYWJ113;Egészségügy, szociális ellátás;Tízezer lakosra jutó egynapos ellátási esetek száma
+TYWV002;Ipar;Telephely szerinti ipari termelési volumenindex (4 fő felett)
+TYWJ003;Egészségügy, szociális ellátás;A járóbeteg-szakellátás száz lakosra jutó megjelenési esetszáma
+TYWJ007;Egészségügy, szociális ellátás;A járóbeteg-szakellátás száz lakosra jutó beavatkozási esetszáma 
+TYWJ008;Egészségügy, szociális ellátás;Száz lakosra jutó teljesített évi szakorvosi munkaórák száma a járóbeteg-szakellátásban
+TYWJ107;Egészségügy, szociális ellátás;Nyugdíjban, ellátásban, járadékban és egyéb járandóságban részesülők aránya a népességben
+TYWJ108;Egészségügy, szociális ellátás;Az öregségi nyugdíj egy főre jutó havi átlagösszege
+TYWJ111;Egészségügy, szociális ellátás;Megváltozott munkaképességűeknek járó ellátásokban részesülők aránya a teljes népességben
+TYWJ105;Egészségügy, szociális ellátás;Ezer 0–24 éves lakosra jutó rendszeres gyermekvédelmi kedvezményben részesítettek száma
+TYWJ106;Egészségügy, szociális ellátás;Ezer 18–65 éves lakosra jutó foglalkoztatást helyettesítő támogatásban részesítettek száma
+TYWK003;Oktatás;A 3–5 éves népességből az óvodások aránya
+TYWK201;Oktatás;A 16 éves népességből a nappali oktatásban részt vevők aránya
+TYWK301;Oktatás;A nem helyben lakó felsőoktatásban résztvevő hallgatók aránya a nappali képzésben
+TYWK302;Oktatás;A 20 éves népességből a nappali oktatásban részt vevők aránya
+TYWP013;Gazdasági szervezetek;Egy működő vállalkozásra jutó foglalkoztatottak száma 
+TYWP014;Gazdasági szervezetek;Egy működő vállalkozásra jutó árbevétel
+TYWP015;Gazdasági szervezetek;Egy működő vállalkozásra jutó hozzáadott érték
+TYWJ005;Egészségügy, szociális ellátás;Tízezer lakosra jutó dolgozó orvosok száma
+TYWA001;Terület, továbbvezetett lakónépesség;Népsűrűség, december 31-én
+TYWA002;Terület, továbbvezetett lakónépesség;A települések átlagos népessége, december 31-én
+TYWA101;Terület, továbbvezetett lakónépesség;Az idős népesség eltartottsági rátája, december 31-én
+TYWA102;Terület, továbbvezetett lakónépesség;A gyermeknépesség eltartottsági rátája, december 31-én
+TYWA201;Terület, továbbvezetett lakónépesség;Öregedési index, december 31-én
+TYWB001;Népmozgalom;Élveszületés ezer lakosra
+TYWB101;Népmozgalom;Halálozás ezer lakosra
+TYWB103;Népmozgalom;Száz élveszületésre jutó terhességmegszakítás 
+TYWB105;Népmozgalom;Ezer élveszülöttre jutó 1 éven aluli meghalt 
+TYWB107;Népmozgalom;Ezer férfira jutó halálozás
+TYWB108;Népmozgalom;Ezer nőre jutó halálozás
+TYWB201;Népmozgalom;Természetes szaporodás, illetve fogyás ezer lakosra
+TYWB301;Népmozgalom;Házasságkötés ezer lakosra
+TYWB305;Népmozgalom;Válás ezer lakosra
+TYWB002;Népmozgalom;Házasságon kívüli élveszületések aránya 
+TYWB004;Népmozgalom;A 2500 grammon aluli élveszületések aránya 
+TYWB005;Népmozgalom;Az nők átlagos életkora az első gyermek születésekor az anya tényleges lakóhelye szerint
+TYWB006;Népmozgalom;A 37. terhességi héten aluli élveszülöttek aránya
+TYWB007;Népmozgalom;Az élveszületési sorrend átlaga
+TYWB102;Népmozgalom;Száz élveszületésre jutó összes magzati halálozás 
+TYWB104;Népmozgalom;Teljes terhességmegszakítási arányszám
+TYWB106;Népmozgalom;Ezer születésre jutó születés körüli halálozás 
+TYWB109;Népmozgalom;Az európai népesség kormegoszlására standardizált halálozási arányszám, százezer lakosra
+TYWB110;Népmozgalom;Standardizált halandósági hányados
+TYWB302;Népmozgalom;Férfiak átlagos életkora házasságkötéskor
+TYWB303;Népmozgalom;Nők átlagos életkora házasságkötéskor
+TYWB304;Népmozgalom;A nők teljes első házasságkötési arányszáma
+TYWB306;Népmozgalom;Teljes válási arányszám
+TYWQ001;Személyi jövedelemadó;Az ezer lakosra jutó adózók száma
+TYWV001;Építőipar;Építőipari termelés volumenindexe, kivitelezési helye szerint (4 fő feletti építőipari szervezetek)
+TYWZ001;Balesetek;Közúti közlekedési balesetben meghalt, megsérült személyek száma, tízezer lakosra
+TYWZ002;Balesetek;Közúti közlekedési balesetben meghalt személyek száma, tízezer lakosra
+TYWZ003;Balesetek;Közúti közlekedési balesetben súlyos sérülést szenvedő személyek száma, tízezer lakosra
+TYWZ004;Balesetek;Közúti közlekedési balesetben könnyű sérülést szenvedő személyek száma, tízezer lakosra
+TYWZ005;Balesetek;Tavasszal történt közúti közlekedési baleset az összes baleset százalékában
+TYWZ006;Balesetek;Nyáron történt közúti közlekedési baleset az összes baleset százalékában
+TYWZ007;Balesetek;Ősszel történt közúti közlekedési baleset az összes baleset százalékában
+TYWZ008;Balesetek;Télen történt közúti közlekedési baleset az összes baleset százalékában
+TYWZ009;Balesetek;Ittasan okozott közúti közlekedési baleset az összes baleset százalékában
+TYWK001;Oktatás;Száz óvodai férőhelyre jutó gyermek
+TYWK002;Oktatás;Ezer lakosra jutó óvodás gyermek
+TYWK101;Oktatás;Az egy pedagógusra jutó tanulók száma az alapfokú oktatásban
+TYWQ002;Személyi jövedelemadó;A személyi jövedelemadóalapot képező jövedelem egy állandó lakosra
+TYWQ003;Személyi jövedelemadó;A személyi jövedelemadóalapot képező jövedelem egy adófizetőre
+TYWL001;Kultúra;A százezer lakosra jutó közművelődési intézmények száma
+TYWL002;Kultúra;A százezer lakosra jutó közművelődési intézményekben szervezett kulturális rendezvények száma
+TYWL003;Kultúra;Egy közművelődési intézményekben szervezett kulturális rendezvényre jutó látogatók átlagos száma
+TYWL004;Kultúra;A százezer lakosra jutó könyvtárak száma
+TYWL005;Kultúra;A százezer lakosra jutó kölcsönzött könyvtári egységek száma
+TYWL006;Kultúra;Ezer lakosra jutó beiratkozott könyvtári olvasók száma
+TYWL007;Kultúra;Mozi férőhelyek száma
+TYWL008;Kultúra;Múzeumi látogatások száma
+TYWL009;Kultúra;Színházak látogatóinak száma
+TYWL010;Kultúra;Levéltári kutatók száma
+TYWV003;Ipar;Egy lakosra jutó ipari termelési érték (telephely szerinti adatok, 4 fő felett)
+TYWG007;Lakásállomány, -építés, -megszűnés, -árak;Értékesített használt lakások átlagos ára
+TYWG102;Lakásállomány, -építés, -megszűnés, -árak;Ezer lakásra jutó értékesített használt lakások száma
+TYWH001;Környezet, közmű;Egy lakosra jutó éves vízfogyasztás
+TYWH002;Környezet, közmű;A közüzemi ivóvízhálózatba bekötött lakások aránya
+TYWH003;Környezet, közmű;A közüzemi szennyvízgyűjtő-hálózatba bekötött lakások aránya
+TYWH004;Környezet, közmű;Víziközműves közműolló (lakásokra)
+TYWH005;Környezet, közmű;Az egy csatornázott lakásra jutó éves elvezetett lakossági szennyvízmennyiség
+TYWH101;Környezet, közmű;Egy háztartási fogyasztóra jutó évi villamosenergia-fogyasztás
+TYWH102;Környezet, közmű;Egy háztartási fogyasztóra jutó éves gázfogyasztás
+TYWH103;Környezet, közmű;Egy háztartási fogyasztóra jutó évi távhőmennyiség
+TYWH104;Környezet, közmű;Egy háztartási fogyasztóra jutó évi melegvízmennyiség
+TYWH105;Környezet, közmű;Háztartási villamosenergia-fogyasztók aránya a lakásállományból
+TYWH106;Környezet, közmű;Háztartási gázfogyasztók aránya a lakásállományból
+TYWH107;Környezet, közmű;Távfűtésbe bekapcsolt lakások aránya
+TYWH108;Környezet, közmű;Melegvíz-ellátásba bekapcsolt lakások aránya
+TYWH201;Környezet, közmű;A közszolgáltatás keretében elszállított települési hulladék egy főre jutó mennyisége
+TYWH202;Környezet, közmű;Egy főre jutó hagyományosan gyűjtött települési hulladék
+TYWH203;Környezet, közmű;Egy főre jutó elkülönítetten gyűjtött települési hulladék
+TYWH204;Környezet, közmű;Egy főre jutó hasznosított települési hulladék
+TYWH301;Környezet, közmű;Száz km2 területre jutó közút
+TYWR002;Posta, távközlés, gépjármű-állomány;Távbeszélő-fővonal ezer lakosra
+TYWR003;Posta, távközlés, gépjármű-állomány;Internet-előfizetések ezer lakosra
+TYWX001;Igazságszolgáltatás;A százezer lakosra jutó regisztrált bűncselekmények száma
+TYWX002;Igazságszolgáltatás;A százezer lakosra jutó regisztrált sértetté válások száma
+TYWH401;Környezet, közmű;Erdősültség
+TYWH402;Környezet, közmű;1000 lakosra jutó erdőterület
+TYWD001;Beruházás;Beruházási teljesítményérték/lakosok száma
+TYWD002;Beruházás;Beruházási teljesítményérték/ gazdasági szervezetek száma
+TYWU001;K+F;Egy kutatóhelyre jutó K+F-ráfordítás megoszlása
+TYWU003;K+F;Egy kutatóhelyre jutó K+F számított, állományi létszám megoszlása 
+TYWY001;Nemzeti számlák, GDP;Egy főre jutó bruttó hazai termék
+TYWY002;Nemzeti számlák, GDP;Az egy főre jutó GDP az országos átlag %-ában
+TYWY003;Nemzeti számlák, GDP;Egy főre jutó GDP vásárlóerő-paritáson
+TYWJ101;Egészségügy, szociális ellátás;Száz bölcsődei férőhelyre beírt gyermek
+TYWJ103;Egészségügy, szociális ellátás;Ezer 3 éven aluli gyermekre jutó bölcsődei ellátást igénybevevő tárgyév május 31-én
+TYWU002;K+F;K+F-ráfordítás aránya a GDP-hez képest 
+TYWE001;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvény terület
+TYWE002;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvény korcsoport < 3 év
+TYWE003;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvény korcsoport 3-9 év
+TYWE004;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvény korcsoport 10-29 év
+TYWE005;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvény korcsoport >= 30 év
+TYWE006;Mezőgazdaság - Szőlőültetvények adatai;Szőlő fajtacsoport - fehér borszőlő
+TYWE007;Mezőgazdaság - Szőlőültetvények adatai;Szőlő fajtacsoport - vörös borszőlő
+TYWE008;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvény művelésmód - fej, bak
+TYWE009;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvény művelésmód - kordon
+TYWE010;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvény művelésmód - ernyő
+TYWE011;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvény művelésmód - egyéb
+TYWE012;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvényterület aránya, ahol az ültetvény kora < 3 év
+TYWE013;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvényterület aránya, ahol az ültetvény kora 3-9 év
+TYWE014;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvényterület aránya, ahol az ültetvény kora 10-29 év
+TYWE015;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvényterület aránya, ahol az ültetvény kora  >=30 év
+TYWE016;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvényterület aránya, ahol a szőlő fajtacsoport fehér borszőlő
+TYWE017;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvényterület aránya, ahol a szőlő fajtacsoport vörös borszőlő
+TYWE018;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvényterület aránya, ahol a művelésmód fej vagy bak
+TYWE019;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvényterület aránya, ahol a művelésmód kordon
+TYWE020;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvényterület aránya, ahol a művelésmód ernyő
+TYWE021;Mezőgazdaság - Szőlőültetvények adatai;Szőlőültetvényterület aránya, ahol a művelésmód egyéb
+TYWJ011;Egészségügy, szociális ellátás;A háziorvosoknál nyilvántartott cukorbetegek (E10–E14) tízezer azonos korú lakosra jutó aránya a 19 éves és idősebb korosztályokban
+TYWJ012;Egészségügy, szociális ellátás;A háziorvosoknál nyilvántartott magasvérnyomás-betegek (I10–I15) tízezer azonos korú lakosra jutó aránya a 19 éves és idősebb korosztályokban
+TYWJ013;Egészségügy, szociális ellátás;A háziorvosoknál nyilvántartott ischaemiás szívbetegek (I20–I25) tízezer azonos korú lakosra jutó aránya a 19 éves és idősebb korosztályokban
+TYWK303;Oktatás;Felsőfokú oklevelet szerzettek a nappali képzésben a 22 évesek százalékában, %
+TYWM001;Mezőgazdaság – Gazdaságszerkezeti összeírás;25 km²-re jutó gazdaságok száma
+TYWM002;Mezőgazdaság – Gazdaságszerkezeti összeírás;25 km²-re jutó éves munkaerőegység
+TYWM101;Mezőgazdaság – Gazdaságszerkezeti összeírás;100 ha mezőgazdasági területre jutó szarvasmarha
+TYWM102;Mezőgazdaság – Gazdaságszerkezeti összeírás;100 ha mezőgazdasági területre jutó sertés
+TYWM103;Mezőgazdaság – Gazdaságszerkezeti összeírás;100 ha mezőgazdasági területre jutó tyúk
+TYWM104;Mezőgazdaság – Gazdaságszerkezeti összeírás;100 ha mezőgazdasági területre jutó baromfi
+TYWM105;Mezőgazdaság – Gazdaságszerkezeti összeírás;100 ha mezőgazdasági területre jutó juh
+TYWM106;Mezőgazdaság – Gazdaságszerkezeti összeírás;100 ha mezőgazdasági területre jutó kecske
+TYWM107;Mezőgazdaság – Gazdaságszerkezeti összeírás;100 ha mezőgazdasági területre jutó állategység
+TYWM108;Mezőgazdaság – Gazdaságszerkezeti összeírás;1 gazdaságra jutó állategység
+TYWM201;Mezőgazdaság – Gazdaságszerkezeti összeírás;Szántóterület aránya a mezőgazdasági területből
+TYWM202;Mezőgazdaság – Gazdaságszerkezeti összeírás;Szőlőterület aránya a mezőgazdasági területből
+TYWM203;Mezőgazdaság – Gazdaságszerkezeti összeírás;Gyümölcsös terület aránya a mezőgazdasági területből
+TYWM204;Mezőgazdaság – Gazdaságszerkezeti összeírás;Gyepterület aránya a mezőgazdasági területből
+TYWM205;Mezőgazdaság – Gazdaságszerkezeti összeírás;Mezőgazdasági területet használó gazdaságok átlagos birtokmérete (egy gazdaságra jutó mezőgazdasági terület)
+TYWM301;Mezőgazdaság – Gazdaságszerkezeti összeírás;Alma aránya a gyümölcsös területből
+TYWM302;Mezőgazdaság – Gazdaságszerkezeti összeírás;Szilva aránya a gyümölcsös területből
+TYWM303;Mezőgazdaság – Gazdaságszerkezeti összeírás;Meggy aránya a gyümölcsös területből
+TYWM304;Mezőgazdaság – Gazdaságszerkezeti összeírás;Kajszi aránya a gyümölcsös területből
+TYWM305;Mezőgazdaság – Gazdaságszerkezeti összeírás;Őszibarack aránya a gyümölcsös területből
+TYWM401;Mezőgazdaság – Gazdaságszerkezeti összeírás;Búza részaránya a szántóterületből
+TYWM402;Mezőgazdaság – Gazdaságszerkezeti összeírás;Kukorica részaránya a szántóterületből
+TYWM403;Mezőgazdaság – Gazdaságszerkezeti összeírás;Napraforgó részaránya a szántóterületből
+TYWM404;Mezőgazdaság – Gazdaságszerkezeti összeírás;Repce részaránya a szántóterületből
+TYWM405;Mezőgazdaság – Gazdaságszerkezeti összeírás;Árpa részaránya a szántóterületből
+TYWM501;Mezőgazdaság – Gazdaságszerkezeti összeírás;Gazdaságszám
+TYWM502;Mezőgazdaság – Gazdaságszerkezeti összeírás;Standard termelési érték, egy gazdaságra
+TYWM503;Mezőgazdaság – Gazdaságszerkezeti összeírás;Standard termelési érték
+TYWM504;Mezőgazdaság – Gazdaságszerkezeti összeírás;Szántó terület
+TYWM505;Mezőgazdaság – Gazdaságszerkezeti összeírás;Gyümölcsös
+TYWM506;Mezőgazdaság – Gazdaságszerkezeti összeírás;Szőlő
+TYWM507;Mezőgazdaság – Gazdaságszerkezeti összeírás;Gyep
+TYWM508;Mezőgazdaság – Gazdaságszerkezeti összeírás;Szarvasmarha
+TYWM509;Mezőgazdaság – Gazdaságszerkezeti összeírás;Sertés
+TYWM510;Mezőgazdaság – Gazdaságszerkezeti összeírás;Juh
+TYWM511;Mezőgazdaság – Gazdaságszerkezeti összeírás;Kecske
+TYWM512;Mezőgazdaság – Gazdaságszerkezeti összeírás;Tyúkféle
+TYWM513;Mezőgazdaság – Gazdaságszerkezeti összeírás;Lúd
+TYWM514;Mezőgazdaság – Gazdaságszerkezeti összeírás;Kacsa
+TYWM515;Mezőgazdaság – Gazdaságszerkezeti összeírás;Pulyka
+TYWM516;Mezőgazdaság – Gazdaságszerkezeti összeírás;Házinyúl
+TYWO001;Mezőgazdaság - 2017. évi ültetvény összeírás;Alma ültetvény terület
+TYWO002;Mezőgazdaság - 2017. évi ültetvény összeírás;Bodza ültetvény terület
+TYWO003;Mezőgazdaság - 2017. évi ültetvény összeírás;Cseresznye ültetvény terület
+TYWO004;Mezőgazdaság - 2017. évi ültetvény összeírás;Dió ültetvény terület
+TYWO005;Mezőgazdaság - 2017. évi ültetvény összeírás;Kajszi ültetvény terület
+TYWO006;Mezőgazdaság - 2017. évi ültetvény összeírás;Körte ültetvény terület
+TYWO007;Mezőgazdaság - 2017. évi ültetvény összeírás;Meggy ültetvény terület
+TYWO008;Mezőgazdaság - 2017. évi ültetvény összeírás;Őszibarack ültetvény terület
+TYWO009;Mezőgazdaság - 2017. évi ültetvény összeírás;Szilva ültetvény terület
+TYWO010;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvény korcsoport < 5 év
+TYWO011;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvény korcsoport 5-9 év
+TYWO012;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvény korcsoport 10-14 év
+TYWO013;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvény korcsoport 15-19 év
+TYWO014;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvény korcsoport 20-24 év
+TYWO015;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvény korcsoport > 24 év
+TYWO016;Mezőgazdaság - 2017. évi ültetvény összeírás;Biogazdálkodásba bevont ültetvény terület
+TYWO017;Mezőgazdaság - 2017. évi ültetvény összeírás;Közepes vagy gyenge kondíciójú ültetvény terület
+TYWO018;Mezőgazdaság - 2017. évi ültetvény összeírás;Jó vagy kiváló kondíciójú ültetvény terület
+TYWO019;Mezőgazdaság - 2017. évi ültetvény összeírás;Sík lejtésű ültetvény terület
+TYWO020;Mezőgazdaság - 2017. évi ültetvény összeírás;< 12% lejtésű ültetvény terület
+TYWO021;Mezőgazdaság - 2017. évi ültetvény összeírás;12-16,9% lejtésű ültetvény terület
+TYWO022;Mezőgazdaság - 2017. évi ültetvény összeírás;>= 17% lejtésű ültetvény terület
+TYWO023;Mezőgazdaság - 2017. évi ültetvény összeírás;Több irányba lejtő ültetvény terület
+TYWO024;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvény terület, ahol nincs támrendszer
+TYWO025;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvény terület, ahol a támrendszer elhanyagolt
+TYWO026;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvény terület, ahol a támrendszer jó
+TYWO027;Mezőgazdaság - 2017. évi ültetvény összeírás;Öntözhető és 2017-ben öntözött ültetvény terület
+TYWO028;Mezőgazdaság - 2017. évi ültetvény összeírás;Öntözhető, de 2017-ben nem öntözött ültetvény terület
+TYWO029;Mezőgazdaság - 2017. évi ültetvény összeírás;Nem öntözhető ültetvény terület
+TYWO030;Mezőgazdaság - 2017. évi ültetvény összeírás;Fagyvédelmi eljárással, eszközzel védett ültetvény terület
+TYWO031;Mezőgazdaság - 2017. évi ültetvény összeírás;Jégvédelemi eljárással, eszközzel védett ültetvény terület
+TYWO032;Mezőgazdaság - 2017. évi ültetvény összeírás;Vízvédelemi eljárással, eszközzel védett ültetvény terület
+TYWO033;Mezőgazdaság - 2017. évi ültetvény összeírás;Vagyonvédelem, piaci biztosítással védett ültetvény terület
+TYWO034;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvényterület aránya, ahol a gazdaságirányító 40 évesnél fiatalabb
+TYWO035;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvényterület aránya, ahol a gazdaságirányító 40 éves vagy idősebb
+TYWO036;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvényterület aránya, ahol a gazdaságirányító férfi
+TYWO037;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvényterület aránya, ahol a gazdaságirányító nő
+TYWO038;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvényterület aránya, ahol a gazdaságirányító felsőfokú végzettségű
+TYWO039;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvényterület aránya, ahol a gazdaságirányító mezőgazdasági végzettségű
+TYWO040;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvényterület aránya, ahol a gazdaság termelői szerveződésben vesz részt
+TYWO041;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvényterület aránya, ahol a gazdaság feldolgozóval kapcsolatban áll
+TYWO042;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvényterület aránya, ahol a gazdaság értékesítővel kapcsolatban áll
+TYWO043;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvényterület aránya, ahol a gazdaság tárolót, hűtőházat használ
+TYWO044;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvényterület aránya, ahol az ültetvényhasználó  hűtőház, tároló tulajdonosa
+TYWO045;Mezőgazdaság - 2017. évi ültetvény összeírás;Alma ültetvények területe a felmért gyümölcsfajok területének arányában
+TYWO046;Mezőgazdaság - 2017. évi ültetvény összeírás;Bodza ültetvény ültetvények területe a felmért gyümölcsök területének arányában
+TYWO047;Mezőgazdaság - 2017. évi ültetvény összeírás;Cseresznye ültetvények területe a felmért gyümölcsök területének arányában
+TYWO048;Mezőgazdaság - 2017. évi ültetvény összeírás;Dió ültetvények területe a felmért gyümölcsök területének arányában
+TYWO049;Mezőgazdaság - 2017. évi ültetvény összeírás;Kajszi ültetvények területe a felmért gyümölcsök területének arányában
+TYWO050;Mezőgazdaság - 2017. évi ültetvény összeírás;Körte ültetvények területe a felmért gyümölcsök területének arányában
+TYWO051;Mezőgazdaság - 2017. évi ültetvény összeírás;Meggy ültetvények területe a felmért gyümölcsök területének arányában
+TYWO052;Mezőgazdaság - 2017. évi ültetvény összeírás;Őszibarack ültetvények területe a felmért gyümölcsök területének arányában
+TYWO053;Mezőgazdaság - 2017. évi ültetvény összeírás;Szilva ültetvények területe a felmért gyümölcsök területének arányában
+TYWO054;Mezőgazdaság - 2017. évi ültetvény összeírás;< 5 éves korcsoportba tartozó ültetvények aránya
+TYWO055;Mezőgazdaság - 2017. évi ültetvény összeírás;5-9 éves korcsoportba tartozó ültetvények aránya
+TYWO056;Mezőgazdaság - 2017. évi ültetvény összeírás;10-14 éves korcsoportba tartozó ültetvények aránya
+TYWO057;Mezőgazdaság - 2017. évi ültetvény összeírás;15-19 éves korcsoportba tartozó ültetvények aránya
+TYWO058;Mezőgazdaság - 2017. évi ültetvény összeírás;20-24 éves korcsoportba tartozó ültetvények aránya
+TYWO059;Mezőgazdaság - 2017. évi ültetvény összeírás;> 24 éves korcsoportba tartozó ültetvények aránya
+TYWO060;Mezőgazdaság - 2017. évi ültetvény összeírás;Biogazdálkodásba bevont ültetvény terület aránya
+TYWO061;Mezőgazdaság - 2017. évi ültetvény összeírás;Jó vagy kiváló kondíciójú ültetvény területének aránya
+TYWO062;Mezőgazdaság - 2017. évi ültetvény összeírás;Sík lejtésű ültetvény terület aránya
+TYWO063;Mezőgazdaság - 2017. évi ültetvény összeírás;< 12% lejtésű ültetvény terület aránya
+TYWO064;Mezőgazdaság - 2017. évi ültetvény összeírás;12-16,9% lejtésű ültetvény terület aránya
+TYWO065;Mezőgazdaság - 2017. évi ültetvény összeírás;>= 17% lejtésű ültetvény terület aránya
+TYWO066;Mezőgazdaság - 2017. évi ültetvény összeírás;Több irányba lejtő ültetvény terület aránya
+TYWO067;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvény terület aránya, ahol nincs támrendszer
+TYWO068;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvény terület aránya, ahol a támrendszer elhanyagolt
+TYWO069;Mezőgazdaság - 2017. évi ültetvény összeírás;Ültetvény terület aránya, ahol a támrendszer jó
+TYWO070;Mezőgazdaság - 2017. évi ültetvény összeírás;Öntözhető és 2017-ben öntözött ültetvény terület aránya
+TYWO071;Mezőgazdaság - 2017. évi ültetvény összeírás;Öntözhető, de 2017-ben nem öntözött ültetvény terület aránya
+TYWO072;Mezőgazdaság - 2017. évi ültetvény összeírás;Nem öntözhető ültetvény terület aránya
+TYWO073;Mezőgazdaság - 2017. évi ültetvény összeírás;Fagyvédelmi eljárással, eszközzel védett ültetvény terület aránya
+TYWO074;Mezőgazdaság - 2017. évi ültetvény összeírás;Jégvédelemi eljárással, eszközzel védett ültetvény terület aránya
+TYWO075;Mezőgazdaság - 2017. évi ültetvény összeírás;Vízvédelemi eljárással, eszközzel védett ültetvény terület aránya
+TYWO076;Mezőgazdaság - 2017. évi ültetvény összeírás;Vagyonvédelem, piaci biztosítással védett ültetvény terület aránya
