@@ -28,16 +28,17 @@ def geopandas(request):
 
     FOCSOP = Hungary_city['MUTATO_FOCSOP_MEGNEV'].unique()
     FOCSOP = sorted(FOCSOP)
-    
+
     ALCSOP = Hungary_city.loc[Hungary_city['MUTATO_FOCSOP_MEGNEV'] == MUTATO_FOCSOP_MEGNEV, ['MUTATO_MEGNEV']]
     ALCSOP = ALCSOP['MUTATO_MEGNEV'].unique()
     ALCSOP = sorted(ALCSOP)
 
     Hungary_city = Hungary_city[Hungary_city['MUTATO_MEGNEV'] == MUTATO_MEGNEV] # 'TYWG006' MUTATO_MEGNEV
 
-    m = Hungary_city.explore("VALUE", legend = False) 
-    m = m._repr_html_()
+    """ m = Hungary_city.explore("VALUE", legend = False) 
+    m = m._repr_html_() """
 
-    context = {'my_map': m, 'FOCSOP': FOCSOP, 'ALCSOP': ALCSOP}
+    # context = {'my_map': m, 'FOCSOP': FOCSOP, 'ALCSOP': ALCSOP}
+    context = {'FOCSOP': FOCSOP, 'ALCSOP': ALCSOP}
 
     return render(request, 'geopandas.html', context)
