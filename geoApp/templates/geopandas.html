@@ -1,9 +1,33 @@
 {% extends 'layout.html' %}
 
 {% block title %}
-    GeospatialIntelligence
+    TIMEA
 {% endblock %}
 
  {% block content %}
+
+   <form name = 'main' method = "POST" action = {{submit}}>
+    {% csrf_token %}
+    <label for = "FOCSOP">Főcsoport:</label> 
+    <select name = "FOCSOP" id = "FOCSOP">
+      {% for x in FOCSOP %}
+          <option value = "{{x}}">{{x}}</option>
+      {% endfor %}
+    </select>
+  <input type = "submit"/>
+  </form>
+
+  <form name = 'main' method = "POST" action = {{submit}}>
+    {% csrf_token %}
+    <label for = "MUTATO_MEGNEV">Alcsoport:</label>
+    <select name = "MUTATO_MEGNEV" id = "MUTATO_MEGNEV">
+      {% for x in ALCSOP %}
+        <option value = "{{x}}" {% if context_val == x %}selected {% endif %}>{{x}}</option>
+      {% endfor %}
+    </select>
+  <input type = "submit"/>
+  </form>
+
   {{ my_map|safe }}
+
 {% endblock %}
